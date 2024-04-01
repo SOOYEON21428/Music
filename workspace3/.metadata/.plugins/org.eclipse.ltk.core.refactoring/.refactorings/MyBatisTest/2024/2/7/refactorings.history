@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MyBatisTest/sql/user.sql&apos; to &apos;usertable.sql&apos;" description="Rename resource &apos;user.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="sql/user.sql" name="usertable.sql" stamp="1707803921456" updateReferences="true"/>
+</session>

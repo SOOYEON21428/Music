@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../source/html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mini"
+	}
+}
