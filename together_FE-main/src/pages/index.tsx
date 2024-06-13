@@ -15,7 +15,7 @@ const HomePage: React.FC = () => {
     return (
         <div className="container" onClick={handleClick}>
             <div className="image-wrapper">
-                <Image src="/images/image-22.png"  alt="My Image" />
+                <Image src="/images/image-22.png" width={500} height={300} alt="My Image" />
             </div>
             <div className="image-wrapper">
                 <Image src="/images/image-6.png" alt="" />
@@ -23,6 +23,7 @@ const HomePage: React.FC = () => {
             <div className="image-wrapper">
                 <Image src="/images/image-2.png" alt="" />
             </div>
+            <Link href="/First">Go to First Page</Link>
         </div>
     );
 };

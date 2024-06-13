@@ -151,35 +151,3 @@ body {
     font-size: 24px;
     cursor: pointer;
 }
-
-.sidebar {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 100%;
-    background-color: #ffffff;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    z-index: 10;
-    transition: transform 0.3s ease;
-    transform: translateX(-100%);
-}
-
-.sidebar-link {
-    padding: 10px 0;
-    cursor: pointer;
-    font-size: 18px;
-    color: #333;
-    border-bottom: 1px solid #f0f0f0;
-}
-
-.sidebar-link:hover {
-    background-color: #f0f0f0;
-}
-
-.main-screen.sidebar-open .sidebar {
-    transform: translateX(0);
-}
