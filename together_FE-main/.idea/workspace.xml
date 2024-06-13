@@ -4,7 +4,266 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c94cd87-0a47-4612-a45e-03bacdcbd484" name="Changes" comment="" />
+    <list default="true" id="9c94cd87-0a47-4612-a45e-03bacdcbd484" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../JS_project" beforeDir="false" afterPath="$PROJECT_DIR$/../JS_project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mini_Project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mini_Shopping/Mini_Shopping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NCP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team_Idle" beforeDir="false" afterPath="$PROJECT_DIR$/../Team_Idle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web" beforeDir="false" afterPath="$PROJECT_DIR$/../Web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../board_prac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/_app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/components/Main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/pages/FindVolunteer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/pages/First.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/pages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/styles/First.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/styles/Main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/styles/Volunteer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/src/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/CSS/Banner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/CSS/event.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/CSS/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/CSS/join.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/CSS/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/CSS/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/JS/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/JS/join.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/JS/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/JS/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/best.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/image/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/image/event1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/image/event2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/image/event3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/image/popup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/join.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/product_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/sale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/video/Outfits Inspired By.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/FE/video/sale.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/event광고/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/event광고/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/event광고/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/front08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/html/mini.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/3:5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/I DLE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/ID.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/ably.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/fornt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/musinsa.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/mysql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/popup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/spring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/springbooot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/zigzag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/무제.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/스크린샷 2024-02-22 오후 11.43.17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/스크린샷 2024-02-22 오후 11.44.03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/스크린샷 2024-02-22 오후 11.44.38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/스크린샷 2024-02-22 오후 11.44.55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/스크린샷 2024-02-22 오후 11.45.10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini/image/스크린샷 2024-02-22 오후 11.45.33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../source" beforeDir="false" afterPath="$PROJECT_DIR$/../source" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy study/과제/멀티미디어 개론.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../sy study/과제/멀티미디어 개론.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy study/과제/자료구조.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../sy study/과제/자료구조.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy study/과제/정보통신개론.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../sy study/과제/정보통신개론.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy study/과제/컴개론.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sy study/인터넷활용.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sy study/인터넷활용.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/alert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/children.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/disable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/image-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/image-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/image-23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/image-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/senior.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/volunteer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/volunteer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../together/public/images/volunteer3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.resources/.root/6.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.web.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/participantsIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jst.j2ee.web/webLibrariesCache.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jst.j2ee/earLibrariesCache.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1702267495.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2024/2/7/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2024/2/7/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2024/2/9/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2024/2/9/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/EL_JSTL/2024/2/7/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/EL_JSTL/2024/2/7/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/MyBatisTest/2024/2/7/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/MyBatisTest/2024/2/7/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.2.1.20231030-1438.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wildwebdeveloper.xml/system-catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.jsdt.web.core/jssearch/1702267495.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest - (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/mapper/userMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/bean/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/dao/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/main/UserMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/service/UserDeleteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/service/UserInsertService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/service/UserSearchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/service/UserSelectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/bin/user/service/UserUpdateService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/lib/lombok.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/lib/mybatis-3.5.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/lib/ojdbc11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/sql/usertable.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/mapper/userMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/bean/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/main/UserMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/service/UserDeleteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/service/UserInsertService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/service/UserSearchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/service/UserSelectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/MyBatisTest/src/user/service/UserUpdateService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace3/js_prac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../스크린샷 2024-04-14 오후 9.10.03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../스크린샷 2024-04-14 오후 9.45.36.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +279,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,29 +291,29 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/bagsuyeon/Downloads/together_FE-main/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images" />
@@ -151,6 +410,7 @@
       <workItem from="1718259422053" duration="55000" />
       <workItem from="1718259478715" duration="82000" />
       <workItem from="1718259563080" duration="4855000" />
+      <workItem from="1718268704827" duration="1000" />
     </task>
     <servers />
   </component>
