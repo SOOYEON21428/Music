@@ -52,44 +52,45 @@ const FindVolunteer: React.FC = () => {
     };
 
     return (
-        <div className="container">
-            <div className="main-screen">
-                <div className="header">
-                    <Image src="/images/image-23.png" alt="search" width={40} height={40} />
-                    <div className="center-image-container">
-                        <Image className="center-image" src="/images/first.png" alt="투게더!" width={120} height={45} />
-                    </div>
-                    <Image src="/images/alert.png" alt="alert" className="alert-icon" width={50} height={50} />
+        <div className="main-screen">
+            <div className="header">
+                <Image src="/images/image-23.png" alt="search" width={50} height={50} />
+                <div className="center-image-container">
+                    <Image src="/images/first.png" alt="투게더!" width={200} height={55} />
                 </div>
-                <div className="banner-container">
-                    <Slider {...settings}>
-                        <div className="banner-slide">
-                            <Image src="/images/volunteer1.png" alt="배너 이미지 1" layout="responsive" width={360} height={200} />
-                        </div>
-                        <div className="banner-slide">
-                            <Image src="/images/volunteer2.png" alt="배너 이미지 2" layout="responsive" width={360} height={200} />
-                        </div>
-                        <div className="banner-slide">
-                            <Image src="/images/volunteer3.png" alt="배너 이미지 3" layout="responsive" width={360} height={200} />
-                        </div>
-                    </Slider>
-                </div>
-
-                <main className="activities-container">
-                    {activities.map(activity => (
-                        <div className="activity" key={activity.id}>
-                            <Image src={activity.image} alt={activity.title} width={100} height={100} />
-                            <h3>{activity.title}</h3>
-                            <p>{activity.description}</p>
-                            <button onClick={() => handleApplyClick(activity.id)}>신청하기</button>
-                        </div>
-                    ))}
-                </main>
+                <Image src="/images/alert.png" alt="alert" width={65} height={65} />
             </div>
+            <div className="divider-top"></div>
+            <div className="banner-container">
+                <Slider {...settings}>
+                    <div className="banner-slide">
+                        <Image src="/images/volunteer1.png" alt="배너 이미지 1" layout="responsive" width={309} height={369} />
+                    </div>
+                    <div className="banner-slide">
+                        <Image src="/images/volunteer2.png" alt="배너 이미지 2" layout="responsive" width={309} height={369} />
+                    </div>
+                    <div className="banner-slide">
+                        <Image src="/images/volunteer3.png" alt="배너 이미지 3" layout="responsive" width={309} height={369} />
+                    </div>
+                </Slider>
+            </div>
+
+            <main className="activities-container">
+                {activities.map(activity => (
+                    <div className="activity" key={activity.id}>
+                        <Image src={activity.image} alt={activity.title} width={100} height={100} />
+                        <h3>{activity.title}</h3>
+                        <p>{activity.description}</p>
+                        <button onClick={() => handleApplyClick(activity.id)}>신청하기</button>
+                    </div>
+                ))}
+            </main>
+
+            <div className="divider-bottom"></div>
             <div className="bottom">
-                <Image src="/images/menu.png" alt="menu" className="icon" width={40} height={40} />
-                <Image src="/images/home.png" alt="home" className="icon" width={40} height={40} />
-                <Image src="/images/my.png" alt="my" className="icon" width={40} height={40} />
+                <Image src="/images/menu.png" alt="menu" className="icon" />
+                <Image src="/images/home.png" alt="home" className="icon" />
+                <Image src="/images/my.png" alt="my" className="icon" />
             </div>
         </div>
     );
