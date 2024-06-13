@@ -15,13 +15,13 @@ const HomePage: React.FC = () => {
     return (
         <div className="container" onClick={handleClick}>
             <div className="image-wrapper">
-                <Image src="/images/image-22.png" width={370} height={400} alt="My Image" />
+                <Image src="/images/image-22.png"  alt="My Image" />
             </div>
             <div className="image-wrapper">
-                <Image src="/images/image-6.png" width={370} height={400}alt="" />
+                <Image src="/images/image-6.png" alt="" />
             </div>
             <div className="image-wrapper">
-                <Image src="/images/image-2.png" width={370} height={400}alt="" />
+                <Image src="/images/image-2.png" alt="" />
             </div>
         </div>
     );
