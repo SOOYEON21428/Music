@@ -1,0 +1,121 @@
+/* styles.css */
+
+/* 전체 페이지 스타일 */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: lightgoldenrodyellow;
+  }
+  main {
+    flex: 1 0 auto;
+  }
+  
+  
+  /* 헤더 스타일 */
+  header {
+    background-color: lightcoral;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    margin-left: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #e3f2fd;
+  }
+  
+  /* 메인 콘텐츠 스타일 */
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+  }
+  
+  section {
+    width: 80%;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    margin-bottom: 40px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  
+  section:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-4px);
+  }
+  
+  
+  section h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  section h1 a {
+    color: #3f51b5;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  section h1 a:hover {
+    color: #303f9f;
+  }
+  
+  
+  /* 푸터 스타일 */
+  footer {
+    background-color: lightcoral;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  

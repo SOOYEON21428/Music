@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>대시보드</title>
+    <link rel="stylesheet" href="board.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <nav class="sidebar">
+            <div class="sidebar-header">
+                <h3>관리자 페이지</h3>
+            </div>
+            <ul class="list-unstyled components">
+                <li><a href="dashboard.html">대시보드</a></li>
+                <li><a href="users.html">사용자 관리</a></li>
+                <li><a href="register.html">게시글 관리</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+            <header>
+                <h1>대시보드</h1>
+            </header>
+            <main>
+                <section id="overview" class="mb-5">
+                    <h2>개요</h2>
+                    <div class="card-deck">
+                        <div class="card text-white bg-primary mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">총 회원 수</h5>
+                                <p class="card-text" id="total-users">1000명</p>
+                            </div>
+                        </div>
+                        <div class="card text-white bg-success mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">오늘의 방문자 수</h5>
+                                <p class="card-text" id="daily-visitors">150명</p>
+                            </div>
+                        </div>
+                        <div class="card text-white bg-warning mb-3">
+                            <div class="card-body">
+                                <h5 class="card-title">주간 가입자 수</h5>
+                                <p class="card-text" id="weekly-signups">50명</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="charts" class="mb-5">
+                    <h2>통계</h2>
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <canvas id="lineChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <canvas id="barChart"></canvas>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+    <script src="board.js"></script>
+    <script>
+        // 관리자 페이지 제목 클릭 시 index.html로 이동
+        document.querySelector('h3').addEventListener('click', function() {
+            window.location.href = 'index.html';
+        });
+    </script>
+</body>
+</html>

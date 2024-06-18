@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>사용자 관리</title>
+  <link rel="stylesheet" href="user.css">
+</head>
+<body>
+  <header>
+    <nav>
+        <div class="logo"><a href="index.html">Together Admin</a></div>
+      <ul>
+        <li><a href="user.html" class="active">사용자 관리</a></li>
+        <li><a href="board.html">게시글 관리</a></li>
+    </nav>
+  </header>
+
+  <main>
+    <section class="board-management">
+      <h1>게시글 관리</h1>
+
+      <div class="board-search">
+        <input type="text" placeholder="사용자 검색" id="searchInput">
+        <button onclick="searchUsers()">검색</button>
+      </div>
+
+      <table id="userTable">
+        <thead>
+          <tr>
+            <th>제목</th>
+            <th>작성자</th>
+            <th>작성일</th>
+            <th>허용여부</th>
+            <th>수정/삭제</th>
+          </tr>
+        </thead>
+        <tbody id="userTableBody">
+          <!-- 사용자 데이터가 동적으로 추가됩니다. -->
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Together Admin. All rights reserved.</p>
+  </footer>
+
+  <script src="board.js"></script>
+</body>
+</html>
