@@ -18,10 +18,17 @@ const First: React.FC = () => {
     const handleHomeClick = () => {
         router.push('/First');
     };
+    const handleFirstImageClick = () => {
+        router.push('/First');
+    };
+
 
     const handleProfileClick = () => {
-        router.push('/Profile');
+        router.push('/Mypage');
     };
+    const handleLoginClick =() => {
+        router.push('/Login')
+    }
 
     const handleSettingsClick = () => {
         setSidebarOpen(!isSidebarOpen);
@@ -47,15 +54,15 @@ const First: React.FC = () => {
             <div className="sidebar">
                 <div className="sidebar-link" onClick={() => handleSidebarLinkClick('/Search')}>Search</div>
                 <div className="sidebar-link" onClick={() => handleSidebarLinkClick('/Login')}>Login</div>
-                <div className="sidebar-link" onClick={() => handleSidebarLinkClick('/My')}>My</div>
+                <div className="sidebar-link" onClick={() => handleSidebarLinkClick('/Mypage')}>My</div>
                 <div className="sidebar-link" onClick={() => handleSidebarLinkClick('/Chat')}>ChatBot</div>
             </div>
             <header className="header">
-                <Image src="/images/image-23.png" alt="search" width={40} height={40} />
-                <div className="center-image-container">
-                    <Image src="/images/first.png" alt="First Image" width={120} height={45} />
+                <Image src="/images/image-23.png" alt="search" width={40} height={40}/>
+                <div className="center-image-container" onClick={handleFirstImageClick} style={{cursor: 'pointer'}}>
+                    <Image className="center-image" src="/images/first.png" alt="투게더!" width={120} height={45}/>
                 </div>
-                <Image src="/images/alert.png" alt="alert" className="alert-icon" width={50} height={50} />
+                <Image src="/images/alert.png" alt="alert" className="alert-icon" width={50} height={50}/>
             </header>
             <div className="content">
                 <div className="intro">
@@ -69,6 +76,9 @@ const First: React.FC = () => {
                 <div className="activity-card" id="Mentor" onClick={handleMentorClick}>
                     <h2>저소득층 학생 대상 멘토링</h2>
                     <p>우리의 희망에게 멘토가 되어주세요.</p>
+                </div>
+                <div className="activity-card" id="Login" onClick={handleLoginClick}>
+                    <h2>로그인 및 회원가입</h2>
                 </div>
             </div>
             <footer className="footer">

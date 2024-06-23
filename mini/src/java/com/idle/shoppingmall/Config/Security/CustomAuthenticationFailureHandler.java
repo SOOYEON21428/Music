@@ -1,0 +1,18 @@
+package com.idle.shoppingmall.Config.Security;
+
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import org.springframework.security.web.authentication.SimpleUrlAuthenticationFailureHandler;
+
+import java.io.IOException;
+
+public class CustomAuthenticationFailureHandler extends SimpleUrlAuthenticationFailureHandler {
+    @Override
+    public void onAuthenticationFailure(HttpServletRequest request, HttpServletResponse response,
+                                        org.springframework.security.core.AuthenticationException exception) throws IOException {
+        System.out.println("로그인 안됨!");
+        response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
+        response.getWriter().print("{\"success\": false, \"message\": \"" + exception.getMessage() + "\"}");
+        response.getWriter().flush();
+    }
+}
