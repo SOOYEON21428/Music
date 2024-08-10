@@ -3,7 +3,8 @@
 const CLIENT_ID = '92b2c30da2b042019289806adcbb5bfc';
 const CLIENT_SECRET = '08d34d62b77542ce84bc724c85dd81de';
 
-interface Track {
+// Track 인터페이스를 export합니다.
+export interface Track {
     id: string;
     name: string;
     album: {
@@ -14,7 +15,8 @@ interface Track {
     artists: { id: string; name: string }[];
 }
 
-interface Album {
+// Album 인터페이스를 export합니다.
+export interface Album {
     id: string;
     name: string;
     images: { url: string }[];
